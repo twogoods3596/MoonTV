@@ -77,4 +77,4 @@ module.exports = {
   output: 'export', // 确保导出静态 HTML
   distDir: '.next/out', // 自定义输出目录
   // 其他配置...
-}
+};
